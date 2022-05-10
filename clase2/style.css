@@ -1,0 +1,31 @@
+body {margin: 50px;}
+.logo {width: 500px; position: relative; right: -33%;
+}
+
+.marta {background-color: pink;
+    margin-right: 10px;
+    padding: 20px;
+    text-decoration: none;
+}
+.opciones {
+   margin-right: 20px;
+   text-decoration: none; 
+}
+
+.chile {background-position: 90ex;
+float: right;
+text-decoration: none;}
+
+
+#cheto {color: cadetblue; position: relative; text-align: left;}
+
+
+#jk {float: right;}
+
+
+#mk2 {background-color: pink;}
+
+#menu2 {position: relative;
+    left: 33%;}
+
+    #hip {color: white;}
