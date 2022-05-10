@@ -1,3 +1,4 @@
+body {background-image: url("https://www.gratistodo.com/wp-content/uploads/2017/07/Destiny-2-Wallpapers-10.jpg");}
 .marta {background-color: red; 
     margin-right: 10px;
     padding: 20px;
@@ -11,9 +12,10 @@
     body{
 <<<<<<< Updated upstream
         background-image: url("https://www.gratistodo.com/wp-content/uploads/2017/07/Destiny-2-Wallpapers-10.jpg");}
-#jk3 {}
-.estudiante {}
+#jk3 {display: inline-block;}
+.estudiante {position: absolute; left: -5;}
+.chile {position: absolute; right: 10px;}
 .medic {text-align: end;}
 =======
-        background-image: url("https://www.gratistodo.com/wp-content/uploads/2017/07/Destiny-2-Wallpapers-10.jpg");}
+        }
 >>>>>>> Stashed changes
