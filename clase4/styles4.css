@@ -1,3 +1,7 @@
-.cuadro1 {}
-.cuadro2 {}
-.cuadro3 {}
+.cuadro { height: 40px; width: 40px;}
+
+.rojo {background-color: red;}
+
+.verde {background-color: green; position: absolute;
+top: 50px; left: 200px;}
+.azul {background-color: blue;}
