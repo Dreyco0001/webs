@@ -1,0 +1,12 @@
+*{margin: 0;
+padding: 0;}
+.cuadrito { background-color: blue;
+width: 33vw;
+height: 33vw;
+border: 12px black;
+background-color: aqua;
+}
+.contenedor {display: flex;
+justify-content: center;}
+.cuadrito {text-align:center;
+}

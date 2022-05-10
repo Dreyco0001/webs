@@ -1,0 +1,9 @@
+.contenedor {display: flex;
+flex-flow: row nowrap;
+justify-content: space-evenly;
+align-items: stretch;
+height: 700px;
+background-color: aqua;
+
+}
+p {width: 400px; background-color: blue;}
