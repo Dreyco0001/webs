@@ -1,0 +1,17 @@
+body {background-color: bisque ;}
+
+.contenedor {display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+height: 400px;
+background-color: blueviolet;
+}
+
+.box-1 {background-color: white;}
+.box2 {border: blue 4px solid;}
+.box {height: 80px; 
+width: 100px;
+text-align: center;
+
+}
