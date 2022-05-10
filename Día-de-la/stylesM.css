@@ -1,2 +1,40 @@
-body { background-color: purple;}
-.box {text-decoration-color: white;}
+body {background-image:url(https://www.xtrafondos.com/wallpapers/peces-koi-a-la-luz-de-la-luna-8451.jpg) ;}
+
+
+
+.box1 {background-color: blueviolet;
+text-align: center;
+
+
+justify-content: space-evenly;
+align-items: stretch;
+height: 50px;
+block-size: 10px;
+block-size: 40px;
+
+
+}
+
+.todo {
+   position: relative;
+   
+}
+
+.box2 {background-color: fuchsia;
+  
+    
+    justify-content: space-evenly;
+    align-items: stretch;
+    height: 50px;
+   float: left;
+    }
+
+.box3 {background-color: royalblue;
+
+   
+    justify-content: space-evenly;
+    align-items: stretch;
+    height: 50px;
+    float: right;
+    }  
+      
