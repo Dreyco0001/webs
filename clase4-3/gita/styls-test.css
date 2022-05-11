@@ -8,5 +8,8 @@ background-color: aqua;
 }
 .contenedor {display: flex;
 justify-content: center;}
-.cuadrito {text-align:center;
+.cuadrito {  margin: auto; text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

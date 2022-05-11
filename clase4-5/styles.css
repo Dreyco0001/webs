@@ -1,0 +1,50 @@
+*{margin: 0;
+padding: 0;}
+.con {height: 800px; background-color: brown;}
+.header {display: flex;
+background-color: aqua; align-items: center;
+justify-content: center;
+ text-align: center;
+ height: 100px;
+}
+.center {display: flex;}
+
+.Aside {
+    position: absolute ; right: ;
+    width: 40%;
+    height: 70%;
+background-color: cyan;
+justify-content: center;
+text-align: center;}
+.article {display: flex ; right: 50px; ;
+width: 40%;
+height: 78%;
+
+background-color:orangered  ;
+position:absolute;
+
+justify-content: center;
+
+}
+.article1 {justify-content: center;
+    display: flex;
+flex-direction: column;
+justify-content: flex-end 40%;}
+
+.image {display: flex;
+    background-color: grey;
+    height: 100%;
+    border: 10px solid black;
+    
+}
+.caja {display: flex;   justify-content: center;
+
+}
+.footer { display: flex; bottom: 90%;
+    background-color: cyan ;
+    position: absolute;
+    bottom: 1%;
+ width: 98%;
+right: 1%;
+text-align: center;
+justify-content: center;}

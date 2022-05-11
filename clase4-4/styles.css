@@ -1,0 +1,33 @@
+* {margin: 0;
+    padding: 0;}
+
+.Ele {
+border: 1px solid black;
+width: 100px;
+
+box-sizing: border-box;}
+
+
+.contenedor {
+height: 500px;
+display: flex;
+flex-direction: row;}
+
+.par{
+    display: flex;
+    flex-direction: row;
+}
+
+.Ele1, .Ele7 {
+    height: 100%;
+}
+.columna, .Ele2, .par {
+    height: 60%;
+}
+
+.Ele3, .Ele6 {
+    height: 40%;
+}
+.Ele6 {
+    width: 200px;
+}

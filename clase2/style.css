@@ -16,6 +16,10 @@ body {margin: 50px;}
 float: right;
 text-decoration: none;}
 
+.metro {display:inline-block}
+.metroI {display: flex; float: left;}
+
+
 
 #cheto {color: cadetblue; position: relative; text-align: left;}
 
