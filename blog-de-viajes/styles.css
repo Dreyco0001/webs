@@ -1,0 +1,52 @@
+body {height: 700px;
+width: auto;}
+
+.logo {justify-items: center;
+position: relative;
+}
+
+.menup {background-color: palevioletred;
+    text-decoration-color: white;
+   width: auto;
+   height: 50px;
+}
+
+.opciones {text-decoration:none;
+    color: white;
+}
+
+.textome {position: absolute;
+    top: 13.5%;
+    right: 60%;
+    text-decoration: none;
+}
+
+.cuerpo{ width:500%;
+height: 500px;}
+.intro {border: 2px solis black  ;
+    left: 0%
+;}
+
+h2 {text-decoration-color: blue;}
+.imgt {width: 400px;}
+
+.lectu {position: absolute;
+right:45% ;
+top: 25%;
+height: 100px;
+width: 380px;}
+
+.lados {width: 1000px;
+height: 300px;}
+
+.lectu2 {height: 100px;
+width: 380px;
+position: absolute;
+top: 71%;
+right: 45%;}
+
+.boton {position:absolute;
+top: 60%;
+left: 2%;
+width: 70px;
+height: 40px;}
