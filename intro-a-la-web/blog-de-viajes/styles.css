@@ -1,5 +1,5 @@
 body {height: 700px;
-width: auto;}
+width: 200px;}
 
 .logo {justify-items: center;
 position: relative;
@@ -7,22 +7,26 @@ position: relative;
 
 .menup {background-color: palevioletred;
     text-decoration-color: white;
-   width: auto;
-   height: 50px;
+   width:1829px;
+   text-align: left;
+   height: 55px;
 }
+
 
 .opciones {text-decoration:none;
     color: white;
+    text-align: left;
 }
 
 .textome {position: absolute;
-    top: 13.5%;
-    right: 60%;
+    top: 11.5%;
+    right: 70%;
     text-decoration: none;
+    gap:;
 }
 
-.cuerpo{ width:500%;
-height: 500px;}
+.cuerpo{ width:;
+height: 500px; display: grid;}
 .intro {border: 2px solis black  ;
     left: 0%
 ;}
@@ -32,7 +36,7 @@ h2 {text-decoration-color: blue;}
 
 .lectu {position: absolute;
 right:45% ;
-top: 25%;
+top: 19.5%;
 height: 100px;
 width: 380px;}
 
@@ -42,13 +46,21 @@ height: 300px;}
 .lectu2 {height: 100px;
 width: 380px;
 position: absolute;
-top: 71%;
+top: 65%;
 right: 45%;}
 
+.Lados3 {position: relative;
+top%;}
+
 .boton {position:absolute;
-top: 60%;
+top: 52%;
 left: 2%;
 width: 70px;
-height: 40px;}
+height: 40px;
+color: aqua;
+border: blue solid 1px;
+background-color: blue;
+width: 200px;
+}
 
 
